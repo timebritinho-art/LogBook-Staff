@@ -1,0 +1,8 @@
+{
+  "name": "Diário de Bordo Staff Britânia",
+  "description": "Sistema integrado de gestão operacional, diário de bordo, cronômetro de atividades, Kanban e inteligência de produtividade para o time de Staff Britânia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
